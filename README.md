@@ -9,7 +9,7 @@ A homework assignment to make a password generator.
 https://ericfrancey.github.io/Javascript-Password-Generator/
 
 ## Screenshot
-  ![Alt text](assets/jspasswordgen.png?raw=true "Screenshot")
+  ![Alt text](Assets/jspasswordgen.png?raw=true "Screenshot")
 
   
 ## Credits
